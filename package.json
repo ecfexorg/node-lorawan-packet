@@ -1,0 +1,25 @@
+{
+  "name": "lorawan-packet",
+  "version": "0.0.1",
+  "description": "Node.js LoraWan packet parser.",
+  "main": "dist/index.js",
+  "types": "types/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecfexorg/node-lorawan-packet.git"
+  },
+  "author": "beary",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ecfexorg/node-lorawan-packet/issues"
+  },
+  "homepage": "https://github.com/ecfexorg/node-lorawan-packet#readme",
+  "devDependencies": {
+    "@types/node": "^8.0.23",
+    "typescript": "^2.4.2"
+  }
+}
